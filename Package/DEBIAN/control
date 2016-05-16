@@ -3,7 +3,7 @@ Name: Test Package
 Version: 1.0
 Architecture: iphoneos-arm
 Description: This is a test package from /u/WinneonSword's tutorial repository!
-Depiction: http://ioshacker.github.io/HTML/com.decimation.alm/index.html
+Depiction: http://ioshacker.github.io/Depic/com.decimation.alm/index.html
 Homepage: http://repo.winneonsword.net
 Maintainer: Jesse Bryan <winneonsword@gmail.com>
 Author: Jesse Bryan <winneonsword@gmail.com>
