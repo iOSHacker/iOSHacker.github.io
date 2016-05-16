@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSHacker <Jeff@ioshacker.com>
 Depends:
-Filename: debs/com.iOSHacker.DynamiciOSHacker.deb
+Filename: DEBs//com.iOSHacker.DynamiciOSHacker.deb
 Size: 1242542
 MD5sum: 694353c1f3ce72d3c3590597e4e87079
 SHA1: 2e9987881f67dd1e2fb840131826586a9a3cc485
