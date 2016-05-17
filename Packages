@@ -2,14 +2,15 @@ Package: com.iOSHacker.DynamiciOSHacker
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSHacker <Jeff@ioshacker.com>
-Filename: ./Debs/com.iOSHacker.DynamiciOSHacker.deb
-Size: 1242542
-MD5sum: 694353c1f3ce72d3c3590597e4e87079
-SHA1: 2e9987881f67dd1e2fb840131826586a9a3cc485
-SHA256: 6565c4284edc09b14980802511dbfe4ea183bf7b8b801ce37b0a4e64182a9f1d
+Filename: .//Debs/com.ioshacker.dynamicioshacker_1.0_iphoneos-arm.deb
+Size: 1274568
+MD5sum: caa776586db2840f9a3b684a1d334762
+SHA1: c00424f4ba05db4416fc8af5529069707d942f4a
+SHA256: 563711c3c89e143c9c0034658e4ccdd289198ab4e1c06a9523037521e0bb3124
 Section: Themes (Minor)
 Homepage: http://www.ioshacker.com
 Description: Dynamic iOSHacker logos as your wallpaper!
 Author: Polar Hacker <polarhacker@icloud.com>
 Depiction: http://ioshacker.github.io/Depic/com.iOSHacker.DynamiciOSHacker/index.html
 Name: Dynamic iOSHacker
+

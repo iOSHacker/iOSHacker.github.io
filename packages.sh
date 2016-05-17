@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip Projects/DynamiciOSHacker Debs
+dpkg-deb -bZgzip Projects/com.iOSHacker.DynamiciOSHacker Debs
