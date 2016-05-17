@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSHacker <Jeff@ioshacker.com>
 Filename: .//Debs/com.ioshacker.dynamicioshacker_1.0_iphoneos-arm.deb
 Size: 1274568
-MD5sum: caa776586db2840f9a3b684a1d334762
-SHA1: c00424f4ba05db4416fc8af5529069707d942f4a
-SHA256: 563711c3c89e143c9c0034658e4ccdd289198ab4e1c06a9523037521e0bb3124
+MD5sum: bf309c8208136612ef57f24dd11215cd
+SHA1: 53018410bb8df2b2e5e54e39a5ec825910b4c55a
+SHA256: 513de57c7ef788e481f2983c0aced83ea8a7a2a09b4dd6c18f4b17fe11445c29
 Section: Themes (Minor)
 Homepage: http://www.ioshacker.com
 Description: Dynamic iOSHacker logos as your wallpaper!
