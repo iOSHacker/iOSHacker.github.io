@@ -1,0 +1,10 @@
+Package: com.iOSHacker.DynamiciOSHacker
+Name: Dynamic iOSHacker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Dynamic iOSHacker logos as your wallpaper!
+Depiction: http://ioshacker.github.io/Depic/com.iOSHacker.DynamiciOSHacker/index.html
+Homepage: http://www.ioshacker.com
+Maintainer: iOSHacker <Jeff@ioshacker.com>
+Author: Polar Hacker <polarhacker@icloud.com>
+Section: Themes (Minor)
