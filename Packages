@@ -1,12 +1,28 @@
+Package: com.iOSHacker.Crayon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSHacker <Logan@iOSHacker.com>
+Filename: .//Debs/com.ioshacker.crayon_1.0_iphoneos-arm.deb
+Size: 1005054
+MD5sum: fc3daec9852a970075d94facb3dc3dd2
+SHA1: 6df7e823e067dcae7f5ed8de199baf64bd6f16de
+SHA256: 3e2987ff6583a0350d9dd1436341d761c0961007616713305ee521d09aca297b
+Section: Themes
+Homepage: http://www.ioshacker.com
+Description: Crayon is really good.
+Author: Bluntpox <Bluntbox@Gmail.com>
+Depiction: http://ioshacker.github.io/Depic/com.iOSHacker.Crayon/index.html
+Name: Crayon
+
 Package: com.iOSHacker.DynamiciOSHacker
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSHacker <Jeff@ioshacker.com>
 Filename: .//Debs/com.ioshacker.dynamicioshacker_1.0_iphoneos-arm.deb
-Size: 1270580
-MD5sum: 8bc5e59b401bccdd14cf4bf1a9ed8010
-SHA1: c6f626660ceabf796b9151693d01eb3d57910d99
-SHA256: e0a4378797236f8e7597ccd9096a3686b63dc2ce1ea11380ce988e2617b243d8
+Size: 1271292
+MD5sum: d8ecc57d549fb70a5f9311b0e7c0f563
+SHA1: a8cb50f8a36eefbc5cbe46575eff2b72478b9b82
+SHA256: 22f68b7f9aab88f64f3a7486f710493f2631c64752ae94f7654ae9ba1d2eceab
 Section: Themes (Minor)
 Homepage: http://www.ioshacker.com
 Description: Dynamic iOSHacker logos as your wallpaper!
